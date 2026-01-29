@@ -1,0 +1,5 @@
+{
+  "name": "Image Gallery App",
+  "description": "A simple responsive image gallery web application with a header and three placeholder images.",
+  "requestFramePermissions": []
+}
